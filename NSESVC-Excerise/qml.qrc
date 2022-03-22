@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ButtonList.qml</file>
+        <file>C:/Users/sanacheti/Downloads/benz car.jpg</file>
+        <file>Button2.qml</file>
+        <file>Button3.qml</file>
+        <file>Button4.qml</file>
+        <file>Button5.qml</file>
+        <file>Button6.qml</file>
+        <file>Button7.qml</file>
+    </qresource>
+</RCC>
